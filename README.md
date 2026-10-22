@@ -1,4 +1,6 @@
-# ChimericSeq
+# chimericseq-nc
+
+Nucleomics Core fork of [ChimericSeq](https://github.com/JBSScience/ChimericSeq) by JBS Science.
 
 This forked branch is under further development to comply with ENSembl GTF format and to report useful results
 
